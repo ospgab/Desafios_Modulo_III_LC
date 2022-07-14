@@ -1,0 +1,13 @@
+Um funcionário recebe uma comissão de 0.5% sobre o valor do seu dia trabalhado.
+
+Criar uma função para receber o valor do salário mensal e o ano e partir dessas informações calcular a previsão do
+salário mês a mês.
+
+Considerar apenas os dias úteis (segunda a sexta).
+
+new Funcionario("Breno", "01-10-2014", 6500),
+new Funcionario("Lucas", "25-03-2018", 4000),
+new Funcionario("Carla", "12-05-2015", 6500),
+new Funcionario("Jéssika", "05-11-2020", 2000),
+new Funcionario("Thayane", "11-01-2019", 2000),
+new Funcionario("Fabricio", "01-07-2011", 8000)

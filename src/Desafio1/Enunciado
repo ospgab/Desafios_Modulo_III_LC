@@ -1,0 +1,32 @@
+A partir de uma lista de pessoas (nome e data nascimento no formato dd-MM-yy), calcular a idade de cada
+pessoa em referência a data de hoje.
+
+A idade maxima das pessoas é de 99 anos.
+
+
+new Pessoa("Gabriel", "01-10-1994"),
+new Pessoa("Junior", "25-12-2009"),
+new Pessoa("Rose", "13-05-2015"),
+new Pessoa("Marilia", "2-06-2003"),
+new Pessoa("Bruna", "27-08-2010"),
+new Pessoa("Marcos", "19-12-2002"),
+new Pessoa("Alfred", "17-01-1965"),
+new Pessoa("Thiago", "12-01-1973"),
+new Pessoa("Renan", "25-03-1969"),
+new Pessoa("Otávio", "01-05-1984"),
+new Pessoa("Jéssica", "22-03-1991"),
+new Pessoa("Maria", "18-09-2001"),
+new Pessoa("Cristina", "05-01-1998"),
+new Pessoa("José", "19-02-1979"),
+new Pessoa("Matheus", "01-02-1986"),
+new Pessoa("Guilherme", "15-05-1970"),
+new Pessoa("Daniel", "31-10-1990"),
+new Pessoa("Leticia", "30-11-1995"),
+new Pessoa("Valesca", "25-05-1997"),
+new Pessoa("Teresa", "03-12-2009"),
+new Pessoa("Manuela", "16-03-2005"),
+new Pessoa("Andréa", "14-07-1999"),
+new Pessoa("Hans", "04-06-1955"),
+new Pessoa("Juan", "31-06-1967"),
+new Pessoa("Elisa", "25-07-1985"),
+new Pessoa("Victor", "11-09-1993");

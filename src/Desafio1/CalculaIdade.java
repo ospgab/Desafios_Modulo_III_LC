@@ -1,6 +1,9 @@
 package Desafio1;
 
+import jdk.swing.interop.SwingInterOpUtils;
+
 import java.time.LocalDate;
+import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 
@@ -50,6 +53,7 @@ public class CalculaIdade {
 
         Pessoas.forEach(pessoa -> System.out.println(pessoa.getNome() + " tem " + Math.abs(calcular.calculaIdade(pessoa)) + " anos"));
 
+        //System.out.println(ZoneId.getAvailableZoneIds());
     }
 }
 

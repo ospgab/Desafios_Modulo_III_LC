@@ -5,7 +5,7 @@ salário mês a mês.
 
 Considerar apenas os dias úteis (segunda a sexta).
 
-new Funcionario("Breno", "01-10-2014", 6500),
+new Funcionario("Breno", "2014", 6500),
 new Funcionario("Lucas", "25-03-2018", 4000),
 new Funcionario("Carla", "12-05-2015", 6500),
 new Funcionario("Jéssika", "05-11-2020", 2000),

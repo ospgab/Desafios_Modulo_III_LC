@@ -2,10 +2,7 @@ package Desafio2;
 
 import java.math.BigDecimal;
 import java.math.MathContext;
-import java.time.DayOfWeek;
-import java.time.LocalDate;
-import java.time.Year;
-import java.time.YearMonth;
+import java.time.*;
 import java.time.temporal.ChronoUnit;
 import java.util.List;
 
@@ -39,6 +36,7 @@ public class Empresa {
                         } else {
                             diasTrabalhados++;
                         }
+
                     }
                     double calculoDiaria = funcionario.getSalario().doubleValue() / mesCalculo.lengthOfMonth();
                     BigDecimal salarioMes = BigDecimal.valueOf(calculoDiaria*diasTrabalhados);

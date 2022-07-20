@@ -1,0 +1,5 @@
+Um site de noticias possui um padrao para os links, sendo ele: site, categoria, subcategoria, data e titulo da noticia.
+
+https://sitenoticas.com.br/negocios/investimentos/2022/04/01/fim-de-semana-com-muita-chuva.html
+
+Crie uma expressao regular para validar se um link inserido é correto.
